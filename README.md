@@ -1,11 +1,11 @@
 # Muchachos Who Code
 
 ### Resources
-__AI__
+__Some random API__
 
-[comment]: <> (- Tesseract OCR: https://github.com/tesseract-ocr/tesseract)
-[comment]: <> (- Tesseract iOS Wrapper: https://github.com/gali8/Tesseract-OCR-iOS)
-[comment]: <> (- Tesseract Tutorial: https://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios)
+- Boop: https://github.com/tesseract-ocr/tesseract)
+- Snoop: https://github.com/gali8/Tesseract-OCR-iOS)
+- Badoop: https://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios)
 
 __Civic API__
 - https://developers.google.com/civic-information/ 

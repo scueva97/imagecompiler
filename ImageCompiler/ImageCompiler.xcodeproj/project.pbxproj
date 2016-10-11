@@ -12,6 +12,7 @@
 		5187802A1DA8D527009FCE7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 518780291DA8D527009FCE7F /* Assets.xcassets */; };
 		5187802D1DA8D527009FCE7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5187802B1DA8D527009FCE7F /* LaunchScreen.storyboard */; };
 		B80BF81A1DA8DA230063352D /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80BF8191DA8DA230063352D /* CameraViewController.swift */; };
+		B83D7D4B1DAC708B00F707C3 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83D7D4A1DAC708B00F707C3 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5187802C1DA8D527009FCE7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5187802E1DA8D527009FCE7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B80BF8191DA8DA230063352D /* CameraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		B83D7D4A1DAC708B00F707C3 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B80BF8191DA8DA230063352D /* CameraViewController.swift */,
 				518780261DA8D527009FCE7F /* Main.storyboard */,
+				B83D7D4A1DAC708B00F707C3 /* Constants.swift */,
 				B80BF81B1DA8DA2E0063352D /* Supporting Files */,
 			);
 			path = ImageCompiler;
@@ -147,6 +150,7 @@
 			files = (
 				518780231DA8D527009FCE7F /* AppDelegate.swift in Sources */,
 				B80BF81A1DA8DA230063352D /* CameraViewController.swift in Sources */,
+				B83D7D4B1DAC708B00F707C3 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
